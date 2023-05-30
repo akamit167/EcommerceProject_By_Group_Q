@@ -34,7 +34,7 @@ public class Service {
 			eCommMarket();
 		}
 		
-        if (userName.equals("Admin")){
+        if (userName.equals("admin")){
             Admin.adminRights();
         }
         else {
